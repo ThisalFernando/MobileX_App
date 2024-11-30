@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btnSignUp">#0E8CF1</color>
+    <color name="btnLogIn">#9A073D69</color>
+    <color name="topic">#FFFFFFFF</color>
+    <color name="recView">#B5FFFFFF</color>
+    <color name="recViewMain">#0E8CF1</color>
+    <color name="cardColor">#BAFFFFFF</color>
+    <color name="profileCard">#00FFFFFF</color>
+</resources>
